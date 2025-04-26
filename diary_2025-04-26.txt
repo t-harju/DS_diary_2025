@@ -1,0 +1,12 @@
+26/April/2025
+
+We are learning how to use GitHub and create repositories.
+
+Now we are creating a text only file. 
+
+I am using Notepad but Microsoft Word can also be used, as long as the file is saved as text only.
+
+Visual Studio Code is also a good option to edit text.
+
+With plain text file formatting (such as bold, italics) should not be used.
+
